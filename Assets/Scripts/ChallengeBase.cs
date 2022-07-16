@@ -9,7 +9,11 @@ public class ChallengeBase : ScriptableObject
 
     public string Text;
 
+    public string Description;
+
     public int SkillCheckThreshold;
+
+    public int SkillCheckAttemptValue;
 
     //public int SkillCheckMax;
 

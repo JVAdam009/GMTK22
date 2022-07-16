@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Type: {fileID: 11400000, guid: f19f21216f0df3446b66df931e5488d3, type: 2}
   Text: Challenge1
+  Description: This is a challenge
   SkillCheckThreshold: 15
+  SkillCheckAttemptValue: 0

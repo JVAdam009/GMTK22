@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: StrengthType
   m_EditorClassIdentifier: 
   Name: Strength
-  TypeIcon: {fileID: 0}
+  TypeIcon: {fileID: 21300000, guid: 793344dd3fc305746af096a3da4be552, type: 3}
   Background: {fileID: 0}

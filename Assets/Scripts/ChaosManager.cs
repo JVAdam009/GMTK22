@@ -70,7 +70,7 @@ public class ChaosManager
                 }
             }
         }
-
+        challenge.SkillCheckAttemptValue = totalValue;
         return challenge.SkillCheckThreshold <= totalValue;
     }
 

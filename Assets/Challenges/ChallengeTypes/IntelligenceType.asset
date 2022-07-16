@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: IntelligenceType
   m_EditorClassIdentifier: 
   Name: Intelligence
-  TypeIcon: {fileID: 0}
+  TypeIcon: {fileID: 21300000, guid: 10b5b458d4440c64f9a579c11a5a2abf, type: 3}
   Background: {fileID: 0}
