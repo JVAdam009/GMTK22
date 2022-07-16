@@ -2,7 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Dice
+[CreateAssetMenu(fileName = "Dice", menuName = "Dice")]
+
+public class Dice : ScriptableObject
 {
     public int sides;
     public int rollResult;

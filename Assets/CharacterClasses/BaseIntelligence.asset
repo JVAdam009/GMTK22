@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4ee61d1c9bc4b4540b5f48f1f3b7c3b5, type: 3}
-  m_Name: StrengthType
+  m_Script: {fileID: 11500000, guid: 23559ef7a0af15c4086835fb11e8b381, type: 3}
+  m_Name: BaseIntelligence
   m_EditorClassIdentifier: 
-  Name: Strength
-  TypeIcon: {fileID: 0}
-  Background: {fileID: 0}
+  Type: {fileID: 11400000, guid: f7c47212d0bc7014b8e9a609f4222525, type: 2}
+  Dice:
+  - {fileID: 11400000, guid: acde6a43ec023d24bbd378d22253ef4d, type: 2}

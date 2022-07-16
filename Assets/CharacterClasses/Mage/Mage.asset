@@ -17,3 +17,7 @@ MonoBehaviour:
   Artwork: {fileID: 0}
   Type: Mage
   Status: 2
+  Abilities:
+  - {fileID: 11400000, guid: cafb331359aae2b499b3c18132648a71, type: 2}
+  - {fileID: 11400000, guid: c02fdf3cc7ab6f34184935fae1ee5804, type: 2}
+  - {fileID: 11400000, guid: bbd475f5523f68b4895fd9674c16e40f, type: 2}

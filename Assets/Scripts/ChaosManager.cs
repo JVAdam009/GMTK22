@@ -58,7 +58,7 @@ public class ChaosManager
         {
             foreach (var ability in character.Abilities)
             {
-                if (ability.Type.Type == challenge.Type.Type)
+                if (ability.Type.Name == challenge.Type.Name)
                 {
                     foreach (var dice in ability.Dice)
                     {

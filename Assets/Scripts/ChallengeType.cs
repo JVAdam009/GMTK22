@@ -5,7 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "ChallengeType", menuName = "ChallengeType")]
 public class ChallengeType : ScriptableObject
 {
-    public string Type;
+    public string Name;
 
     public Sprite TypeIcon;
 
@@ -14,7 +14,7 @@ public class ChallengeType : ScriptableObject
     public ChallengeType(
         string type)
     {
-        this.Type = type;
+        this.Name = type;
     }
 
     public ChallengeType(
@@ -22,7 +22,7 @@ public class ChallengeType : ScriptableObject
         Sprite typeIcon,
         Sprite background)
     {
-        this.Type = type;
+        this.Name = type;
         this.TypeIcon = typeIcon;
         this.Background = background;
     }

@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: MageBaseStats
-  m_EditorClassIdentifier: Assembly-CSharp::CharacterAbility
-  Type: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: d99a01bfeaa9a3547b0da4de06935127, type: 3}
+  m_Name: D6
+  m_EditorClassIdentifier: 
+  sides: 6
+  rollResult: 0
